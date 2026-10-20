@@ -447,6 +447,8 @@ java -cp target/classes com.shopsphere.desktop.LoginFrame
 
 ## 👨‍💻 Repository Author
 
-- **Author**: Sahil Sepat
+- **Author**: Surendra Singh Chauhan
 - **Course**: Advanced Java Laboratory (ADJ Lab)
-- **Repository**: [`adjrepo`](https://github.com/sahil1205-jat/adj)
+- **Repository**: [`adjrepo`](https://github.com/surendras49)
+#   A d v a n c e - J a v a - P r o j e c t  
+ 
